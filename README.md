@@ -32,7 +32,7 @@ To use the finance calculator, follow these steps:
 2. Navigate to the project directory:
 
    ```
-   cd finance_calculators.py
+   cd finalCapstone
    ```
 
 3. Run the script using Python:
